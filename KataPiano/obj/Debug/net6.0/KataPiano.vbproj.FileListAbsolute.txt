@@ -1,0 +1,15 @@
+C:\Users\igort\git-hub repositorys\KataPiano\KataPiano\bin\Debug\net6.0\KataPiano.exe
+C:\Users\igort\git-hub repositorys\KataPiano\KataPiano\bin\Debug\net6.0\KataPiano.deps.json
+C:\Users\igort\git-hub repositorys\KataPiano\KataPiano\bin\Debug\net6.0\KataPiano.runtimeconfig.json
+C:\Users\igort\git-hub repositorys\KataPiano\KataPiano\bin\Debug\net6.0\KataPiano.dll
+C:\Users\igort\git-hub repositorys\KataPiano\KataPiano\bin\Debug\net6.0\ref\KataPiano.dll
+C:\Users\igort\git-hub repositorys\KataPiano\KataPiano\bin\Debug\net6.0\KataPiano.pdb
+C:\Users\igort\git-hub repositorys\KataPiano\KataPiano\obj\Debug\net6.0\KataPiano.vbproj.AssemblyReference.cache
+C:\Users\igort\git-hub repositorys\KataPiano\KataPiano\obj\Debug\net6.0\KataPiano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igort\git-hub repositorys\KataPiano\KataPiano\obj\Debug\net6.0\KataPiano.AssemblyInfoInputs.cache
+C:\Users\igort\git-hub repositorys\KataPiano\KataPiano\obj\Debug\net6.0\KataPiano.AssemblyInfo.vb
+C:\Users\igort\git-hub repositorys\KataPiano\KataPiano\obj\Debug\net6.0\KataPiano.vbproj.CoreCompileInputs.cache
+C:\Users\igort\git-hub repositorys\KataPiano\KataPiano\obj\Debug\net6.0\KataPiano.dll
+C:\Users\igort\git-hub repositorys\KataPiano\KataPiano\obj\Debug\net6.0\ref\KataPiano.dll
+C:\Users\igort\git-hub repositorys\KataPiano\KataPiano\obj\Debug\net6.0\KataPiano.pdb
+C:\Users\igort\git-hub repositorys\KataPiano\KataPiano\obj\Debug\net6.0\KataPiano.genruntimeconfig.cache
